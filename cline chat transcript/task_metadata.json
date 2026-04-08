@@ -1,0 +1,543 @@
+{
+  "files_in_context": [
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/__init__.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773193727727,
+      "cline_edit_date": 1773193727727,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/__init__.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773193729030,
+      "cline_edit_date": 1773193729030,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/__init__.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773193730211,
+      "cline_edit_date": 1773193730211,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/pyproject.toml",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773193749107,
+      "cline_edit_date": 1773193749107,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/.env.example",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773193752591,
+      "cline_edit_date": 1773193752591,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/.gitignore",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773193754731,
+      "cline_edit_date": 1773193754731,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/state.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773194209123,
+      "cline_edit_date": 1773194209123,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/configuration.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773194718287,
+      "cline_edit_date": 1773194718287,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/utils.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773195733958,
+      "cline_edit_date": 1773195733958,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/chroma_client.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773196429913,
+      "cline_edit_date": 1773196429913,
+      "user_edit_date": null
+    },
+    {
+      "path": "ticketing-agent/pages_with_metadata.csv",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1773196611509,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/load_to_chroma.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773197062033,
+      "cline_edit_date": 1773197062033,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/create_leads_table.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773198194409,
+      "cline_edit_date": 1773198194409,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/create_leads_table.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773198260427,
+      "cline_edit_date": 1773198260427,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/create_leads_table.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1773198260427,
+      "cline_edit_date": 1773198260427,
+      "user_edit_date": 1773198261020
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/create_leads_table.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773198275047,
+      "cline_edit_date": 1773198275047,
+      "user_edit_date": 1773198261020
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/scripts/create_leads_table.py",
+      "record_state": "active",
+      "record_source": "user_edited",
+      "cline_read_date": 1773198275047,
+      "cline_edit_date": 1773198275047,
+      "user_edit_date": 1773198275523
+    },
+    {
+      "path": "ticketing-agent/react_agent/configuration.py",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1773198765529,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "ticketing-agent/react_agent/state.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1773198829877,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/prompts.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773199373568,
+      "cline_edit_date": 1773199373568,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/tools.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773199448427,
+      "cline_edit_date": 1773199448427,
+      "user_edit_date": null
+    },
+    {
+      "path": "ticketing-agent/react_agent/configuration.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1773199639070,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "ticketing-agent/react_agent/utils.py",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1773199815106,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/graph.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773199969372,
+      "cline_edit_date": 1773199969372,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/app.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773200576168,
+      "cline_edit_date": 1773200576168,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773200638027,
+      "cline_edit_date": 1773200638027,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/utils.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773201900694,
+      "cline_edit_date": 1773201900694,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773201913325,
+      "cline_edit_date": 1773201913325,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773201927593,
+      "cline_edit_date": 1773201927593,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1773201927593,
+      "cline_edit_date": 1773201927593,
+      "user_edit_date": 1773201928166
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773201942108,
+      "cline_edit_date": 1773201942108,
+      "user_edit_date": 1773201928166
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1773201942108,
+      "cline_edit_date": 1773201942108,
+      "user_edit_date": 1773201942632
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/graph.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773203265904,
+      "cline_edit_date": 1773203265904,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/graph.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773203281297,
+      "cline_edit_date": 1773203281297,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/graph.py",
+      "record_state": "active",
+      "record_source": "user_edited",
+      "cline_read_date": 1773203281297,
+      "cline_edit_date": 1773203281297,
+      "user_edit_date": 1773203281904
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/app.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773203295190,
+      "cline_edit_date": 1773203295190,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/app.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773203322107,
+      "cline_edit_date": 1773203322107,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/app.py",
+      "record_state": "active",
+      "record_source": "user_edited",
+      "cline_read_date": 1773203322107,
+      "cline_edit_date": 1773203322107,
+      "user_edit_date": 1773203322600
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773203335889,
+      "cline_edit_date": 1773203335889,
+      "user_edit_date": 1773201942632
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773203357515,
+      "cline_edit_date": 1773203357515,
+      "user_edit_date": 1773201942632
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/api/chat.py",
+      "record_state": "active",
+      "record_source": "user_edited",
+      "cline_read_date": 1773203357515,
+      "cline_edit_date": 1773203357515,
+      "user_edit_date": 1773203358008
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/react_agent/templates/index.html",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773251151870,
+      "cline_edit_date": 1773251151870,
+      "user_edit_date": null
+    },
+    {
+      "path": "ticketing-agent/pyproject.toml",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1773251448315,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "/Users/d-25-18073/Desktop/Soccer MVP Assessment/ticketing-agent/README.md",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1773251748430,
+      "cline_edit_date": 1773251748430,
+      "user_edit_date": null
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1773193685577,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773193710045,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773194035018,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773194122623,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773194266975,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773194636162,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773194785481,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773195129212,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773195695889,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773195928270,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773196374094,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773196605194,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773197003355,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773197924645,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773198005854,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773198752976,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773199338572,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773199629867,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773199867753,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773200297230,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773200491737,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773201828438,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773201852494,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773202958294,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773203248174,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773250800762,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773251029349,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    },
+    {
+      "ts": 1773251437101,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "plan"
+    },
+    {
+      "ts": 1773251633608,
+      "model_id": "claude-sonnet-4-6",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1773193685576,
+      "os_name": "darwin",
+      "os_version": "24.6.0",
+      "os_arch": "arm64",
+      "host_name": "Visual Studio Code",
+      "host_version": "1.110.1",
+      "cline_version": "3.71.0"
+    }
+  ]
+}

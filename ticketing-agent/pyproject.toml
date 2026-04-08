@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ticketing-agent"
+version = "0.1.0"
+description = "LangGraph RAG Agent for Ticketing System"
+requires-python = ">=3.9"
+dependencies = [
+    "langgraph",
+    "langchain",
+    "langchain-core",
+    "langchain-openai",
+    "langchain-anthropic",
+    "chromadb",
+    "openai",
+    "pandas",
+    "tqdm",
+    "fastapi",
+    "uvicorn",
+    "psycopg2-binary",
+    "psycopg[binary]",
+    "langgraph-checkpoint-postgres",
+    "sqlalchemy",
+    "python-dotenv",
+    "jinja2"
+
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "flake8",
+    "mypy",
+]
+
+[tool.setuptools.packages.find]
+include = ["react_agent*"]
